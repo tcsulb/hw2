@@ -76,11 +76,11 @@ img:hover {
 
 .feedback {
   position: relative;
+  bottom: 18.4px;
   background-color: #521751;
   color: white;
   text-align: center;
   margin: 0;
-  bottom: 18.4px;
   font-size: 16px;
   font-size: 1rem;
 }
@@ -103,7 +103,7 @@ img:hover {
 }
 
 .review-clients p {
-  width: 350px;
+  width: 250px;
   text-align: center;
   font-size: 16px;
   font-size: 1rem;
